@@ -215,6 +215,9 @@ When you decide you want to turn off the **hvpp**, just execute:
 
 `sc stop hvpp`
 
+<p align="center">
+  <img src="img/s.png" />
+</p>
 
 ### Remarks
 
@@ -269,13 +272,6 @@ Finally, I'd especially like to suggest reading interesting writings from Satosh
 And notes from LordNoteworthy ([github](https://github.com/LordNoteworthy), [twitter](https://twitter.com/LordNoteworthy)):
 - https://github.com/LordNoteworthy/cpu-internals
 - https://github.com/LordNoteworthy/windows-internals
-
-If you find this project interesting, you can buy me a coffee
-
-```
-  BTC 3GwZMNGvLCZMi7mjL8K6iyj6qGbhkVMNMF
-  LTC MQn5YC7bZd4KSsaj8snSg4TetmdKDkeCYk
-```
 
   [simplevisor]: <https://github.com/ionescu007/SimpleVisor>
   [hyperplatform]: <https://github.com/tandasat/HyperPlatform>
