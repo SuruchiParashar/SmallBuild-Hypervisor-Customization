@@ -216,7 +216,7 @@ When you decide you want to turn off the **hvpp**, just execute:
 `sc stop hvpp`
 
 <p align="center">
-  <img src="img/s.png" />
+  <img src="https://github.com/SuruchiParashar/SmallBuild-Hypervisor-Customization/blob/master/s.PNG" />
 </p>
 
 ### Remarks
