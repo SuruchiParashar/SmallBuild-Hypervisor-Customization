@@ -145,9 +145,7 @@ now:
 hvpp now performs various checks and enters VMX mode if they pass. In case of success you should see message
 `hvpp started` in the `DebugView`.
 
-<p align="center">
-  <img src="img/sc-start.png" />
-</p>
+
 
 Run **hvppctrl**:
 
@@ -207,24 +205,16 @@ Run **hvppctrl**:
     - original function will be called, therefore the `HookCallCount` should not be incremented now
   - prints value of `HookCallCount` and it's expected value - it should be still 3
 
-<p align="center">
-  <img src="img/hvppctrl.png" height="600" />
-</p>
+
 
 At the same time you should see tracelog messages in the `TraceView` - they are generated on each `VMCALL` and on each
 _EPT Violation_.
 
-<p align="center">
-  <img src="img/traceview.png" />
-</p>
 
 When you decide you want to turn off the **hvpp**, just execute:
 
 `sc stop hvpp`
 
-<p align="center">
-  <img src="img/sc-stop.png" />
-</p>
 
 ### Remarks
 
